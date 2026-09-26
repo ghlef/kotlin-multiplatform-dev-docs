@@ -33,5 +33,5 @@ You have several options for providing feedback or reporting issues:
 
 * **Issue Tracker**: Report issues to [our issue tracker](https://youtrack.jetbrains.com/newIssue?project=KT).
 * **Kotlin public Slack**: Share feedback in the [#multiplatform](https://kotl.in/gamt3a) channel in our Kotlin public Slack.
-* **Feedback widget**: Use the feedback widget located at the end of each documentation page.
+* **Feedback widget**: Use the feedback widget located at the end of each documentation page.hlyther
 
